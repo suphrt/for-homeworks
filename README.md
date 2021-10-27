@@ -1,2 +1,2 @@
 # for-homeworks
-new day - new repository
+new day - new homework
