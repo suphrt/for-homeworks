@@ -1,4 +1,4 @@
-#!usr/bin/env python
+#!usr/bin/env python3
 
 n = 64
 g = 2
