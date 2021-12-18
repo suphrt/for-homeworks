@@ -7,28 +7,28 @@ if __name__ == "__main__":
     if 0 <= n <= 11:
         month = n + 1
         if month == 1:
-            print("Jan")
+            print("January")
         elif month == 2:
-            print("Feb")
+            print("February")
         elif month == 3:
-            print("Mar")
+            print("March")
         elif month == 4:
-            print("Apr")
+            print("April")
         elif month == 5:
             print("May")
         elif month == 6:
-            print("Jun")
+            print("June")
         elif month == 7:
-            print("Jul")
+            print("July")
         elif month == 8:
-            print("Aug")
+            print("August")
         elif month == 9:
-            print("Sep")
+            print("September")
         elif month == 10:
-            print("Oct")
+            print("October")
         elif month == 11:
-            print("Nov")
+            print("November")
         else:
-            print("Dec")
+            print("December")
     else:
-        print("Error")
+        print("Month with this number does not exist")
